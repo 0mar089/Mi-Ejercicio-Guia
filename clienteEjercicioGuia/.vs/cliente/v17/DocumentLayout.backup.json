@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\omarb\\OneDrive\\Documents\\UNIVERSIDAD\\SEGUNDO\\1 quatrimestre\\SO\\Ejercicio Guia\\clienteEjercicioGuia\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F5E08E40-5E04-41A2-AFB5-56E3E3274D24}|WindowsFormsApplication1\\clienteForm.csproj|c:\\users\\omarb\\onedrive\\documents\\universidad\\segundo\\1 quatrimestre\\so\\ejercicio guia\\clienteejercicioguia\\windowsformsapplication1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F5E08E40-5E04-41A2-AFB5-56E3E3274D24}|WindowsFormsApplication1\\clienteForm.csproj|solutionrelative:windowsformsapplication1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F5E08E40-5E04-41A2-AFB5-56E3E3274D24}|WindowsFormsApplication1\\clienteForm.csproj|c:\\users\\omarb\\onedrive\\documents\\universidad\\segundo\\1 quatrimestre\\so\\ejercicio guia\\clienteejercicioguia\\windowsformsapplication1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5E08E40-5E04-41A2-AFB5-56E3E3274D24}|WindowsFormsApplication1\\clienteForm.csproj|solutionrelative:windowsformsapplication1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E08E40-5E04-41A2-AFB5-56E3E3274D24}|WindowsFormsApplication1\\clienteForm.csproj|c:\\users\\omarb\\onedrive\\documents\\universidad\\segundo\\1 quatrimestre\\so\\ejercicio guia\\clienteejercicioguia\\windowsformsapplication1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5E08E40-5E04-41A2-AFB5-56E3E3274D24}|WindowsFormsApplication1\\clienteForm.csproj|solutionrelative:windowsformsapplication1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,25 +26,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\omarb\\OneDrive\\Documents\\UNIVERSIDAD\\SEGUNDO\\1 quatrimestre\\SO\\Ejercicio Guia\\clienteEjercicioGuia\\WindowsFormsApplication1\\Form1.cs",
               "RelativeDocumentMoniker": "WindowsFormsApplication1\\Form1.cs",
-              "ToolTip": "C:\\Users\\omarb\\OneDrive\\Documents\\UNIVERSIDAD\\SEGUNDO\\1 quatrimestre\\SO\\Ejercicio Guia\\clienteEjercicioGuia\\WindowsFormsApplication1\\Form1.cs",
-              "RelativeToolTip": "WindowsFormsApplication1\\Form1.cs",
-              "ViewState": "AgIAAIMAAAAAAAAAAAAUwJoAAAATAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\omarb\\OneDrive\\Documents\\UNIVERSIDAD\\SEGUNDO\\1 quatrimestre\\SO\\Ejercicio Guia\\clienteEjercicioGuia\\WindowsFormsApplication1\\Form1.cs*",
+              "RelativeToolTip": "WindowsFormsApplication1\\Form1.cs*",
+              "ViewState": "AgIAAA8AAAAAAAAAAADwvxoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-20T19:07:04.126Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\omarb\\OneDrive\\Documents\\UNIVERSIDAD\\SEGUNDO\\1 quatrimestre\\SO\\Ejercicio Guia\\clienteEjercicioGuia\\WindowsFormsApplication1\\Form1.cs",
               "RelativeDocumentMoniker": "WindowsFormsApplication1\\Form1.cs",
-              "ToolTip": "C:\\Users\\omarb\\OneDrive\\Documents\\UNIVERSIDAD\\SEGUNDO\\1 quatrimestre\\SO\\Ejercicio Guia\\clienteEjercicioGuia\\WindowsFormsApplication1\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "WindowsFormsApplication1\\Form1.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\omarb\\OneDrive\\Documents\\UNIVERSIDAD\\SEGUNDO\\1 quatrimestre\\SO\\Ejercicio Guia\\clienteEjercicioGuia\\WindowsFormsApplication1\\Form1.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "WindowsFormsApplication1\\Form1.cs [Dise\u00F1o]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-20T19:06:52.779Z",
               "EditorCaption": " [Dise\u00F1o]"
